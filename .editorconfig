@@ -1,15 +1,17 @@
 root = true
 
 [*]
-indent_style = space
-indent_size = 4
 charset = utf-8
 end_of_line = lf
 
 [*.java]
+indent_style = space
+indent_size = 4
 max_line_length = 100
 
 [*.xml]
+indent_style = space
+indent_size = 4
 max_line_length = 100
 
 [*.md]
